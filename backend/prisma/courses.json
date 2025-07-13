@@ -1,0 +1,2516 @@
+[
+    {
+        "name": "Foundations of Biology",
+        "acronym": "FOB",
+        "code": "BIO101",
+        "semester": "Winter"
+    },
+    {
+        "name": "Cell Biology and Bio-Chemistry",
+        "acronym": "CBB",
+        "code": "BIO211/BIO511",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Introduction to Quantitative Biology",
+        "acronym": "IQB",
+        "code": "BIO213",
+        "semester": "Winter"
+    },
+    {
+        "name": "Genetics and Molecular Biology",
+        "acronym": "GMB",
+        "code": "BIO214",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Practical Bioinformatics",
+        "acronym": "PB",
+        "code": "BIO221",
+        "semester": "Winter"
+    },
+    {
+        "name": "Algorithms in Bioinformatics",
+        "acronym": "ABIN",
+        "code": "BIO321",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Biophysics",
+        "acronym": "BioP",
+        "code": "BIO361",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Stochastic Simulations in Systems Biology and Biophysics",
+        "acronym": "SSSBB",
+        "code": "BIO506",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Foundations of Modern Biology",
+        "acronym": "FOMB",
+        "code": "BIO512",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Algorithms in Computational Biology",
+        "acronym": "ACB",
+        "code": "BIO522",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Chemoinformatics",
+        "acronym": "CHI",
+        "code": "BIO523",
+        "semester": "Winter"
+    },
+    {
+        "name": "Biomedical Image processing",
+        "acronym": "BIP",
+        "code": "BIO524",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Introduction to Mathematical Biology",
+        "acronym": "IMB",
+        "code": "BIO531",
+        "semester": "Winter"
+    },
+    {
+        "name": "Network Biology",
+        "acronym": "NB",
+        "code": "BIO532",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Systems and Synthetic Biology",
+        "acronym": "S&SB",
+        "code": "BIO533",
+        "semester": "Winter"
+    },
+    {
+        "name": "Introduction to Computational Neuroscience",
+        "acronym": "ICN",
+        "code": "BIO534",
+        "semester": "Winter"
+    },
+    {
+        "name": "Data Sciences for Genomics",
+        "acronym": "DSG",
+        "code": "BIO541",
+        "semester": "Winter"
+    },
+    {
+        "name": "Machine Learning for Biomedical Applications",
+        "acronym": "MLBA",
+        "code": "BIO542",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Big Data Mining in Healthcare",
+        "acronym": "BDMH",
+        "code": "BIO543",
+        "semester": "Winter"
+    },
+    {
+        "name": "Computational Gastronomy",
+        "acronym": "CGAS",
+        "code": "BIO544",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Biostatistics",
+        "acronym": "BioStats",
+        "code": "BIO545",
+        "semester": "Winter"
+    },
+    {
+        "name": "Computing for Medicine",
+        "acronym": "CM",
+        "code": "BIO546/CSE585",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Computer Aided Drug Design",
+        "acronym": "CADD",
+        "code": "BIO561",
+        "semester": "Winter"
+    },
+    {
+        "name": "Communication Skills",
+        "acronym": "COM",
+        "code": "COM101",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Technical Communication",
+        "acronym": "TCOM",
+        "code": "COM301A",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Introduction to Programming",
+        "acronym": "IP",
+        "code": "CSE101",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Data Structures & Algorithms",
+        "acronym": "DSA",
+        "code": "CSE102",
+        "semester": "Winter"
+    },
+    {
+        "name": "Computer Organization",
+        "acronym": "CO",
+        "code": "CSE112",
+        "semester": "Winter"
+    },
+    {
+        "name": "Discrete Mathematics",
+        "acronym": "DM",
+        "code": "CSE121",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Introduction to Intelligent Systems",
+        "acronym": "IIS",
+        "code": "CSE140",
+        "semester": "Winter"
+    },
+    {
+        "name": "Advanced Programming",
+        "acronym": "AP",
+        "code": "CSE201",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Fundamentals of Database Management System",
+        "acronym": "DBMS",
+        "code": "CSE202",
+        "semester": "Winter"
+    },
+    {
+        "name": "Algorithm Design and Analysis",
+        "acronym": "ADA",
+        "code": "CSE222",
+        "semester": "Winter"
+    },
+    {
+        "name": "Algorithm Design and Analysis",
+        "acronym": "ALD",
+        "code": "CSE223",
+        "semester": "Winter"
+    },
+    {
+        "name": "Operating Systems",
+        "acronym": "OS",
+        "code": "CSE231",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Computer Networks",
+        "acronym": "CN",
+        "code": "CSE232",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Network Administration",
+        "acronym": "NAD",
+        "code": "CSE233",
+        "semester": "Winter"
+    },
+    {
+        "name": "Modern Algorithm Design",
+        "acronym": "MAD",
+        "code": "CSE319/CSE519",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Advanced Algorithms",
+        "acronym": "AA",
+        "code": "CSE320/CSE520",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Theory of Computation",
+        "acronym": "ToC",
+        "code": "CSE322",
+        "semester": "Winter"
+    },
+    {
+        "name": "Computer Graphics",
+        "acronym": "CG",
+        "code": "CSE333/CSE533",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Digital Image Processing",
+        "acronym": "DIP",
+        "code": "CSE340/CSE540/ECE340",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Statistical Machine Learning",
+        "acronym": "SML",
+        "code": "CSE342/CSE542/ECE356/ECE556",
+        "semester": "Winter"
+    },
+    {
+        "name": "Computer Vision",
+        "acronym": "CV",
+        "code": "CSE344/CSE544/ECE344/ECE544",
+        "semester": "Winter"
+    },
+    {
+        "name": "Foundations of Computer Security",
+        "acronym": "FCS",
+        "code": "CSE345/CSE545",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Network Security",
+        "acronym": "NSC",
+        "code": "CSE350/CSE550",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Networks and System Security II",
+        "acronym": "NSS-II",
+        "code": "CSE354/CSE554",
+        "semester": "Winter"
+    },
+    {
+        "name": "Complexity Theory",
+        "acronym": "CMPT",
+        "code": "CSE421/CSE621",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Advanced Biometrics",
+        "acronym": "BIOM",
+        "code": "CSE441/CSE541",
+        "semester": "Winter"
+    },
+    {
+        "name": "Designing Human Centered Systems",
+        "acronym": "DHCS",
+        "code": "CSE501",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Foundations of Parallel Programming",
+        "acronym": "FPP",
+        "code": "CSE502",
+        "semester": "Winter"
+    },
+    {
+        "name": "Program Analysis",
+        "acronym": "PA",
+        "code": "CSE503",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Decision Procedures",
+        "acronym": "DP",
+        "code": "CSE504",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Data Mining",
+        "acronym": "DMG",
+        "code": "CSE506",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Database System Implementation",
+        "acronym": "DBSI",
+        "code": "CSE507",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Information Retrieval",
+        "acronym": "IR",
+        "code": "CSE508",
+        "semester": "Winter"
+    },
+    {
+        "name": "Computer Architecture",
+        "acronym": "CA",
+        "code": "CSE511/ECE511",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Bayesian Machine Learning",
+        "acronym": "BML",
+        "code": "CSE515/ECE551",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Theories of Deep Learning",
+        "acronym": "TDL",
+        "code": "CSE516/ECE559",
+        "semester": "Winter"
+    },
+    {
+        "name": "Randomized Algorithms",
+        "acronym": "RA",
+        "code": "CSE523",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Theory of Modern cryptography",
+        "acronym": "TMC",
+        "code": "CSE524",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Introduction to Graduate Algorithms",
+        "acronym": "GA",
+        "code": "CSE525",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Introduction to Blockchain and Cryptocurrency",
+        "acronym": "IBC",
+        "code": "CSE528",
+        "semester": "Winter"
+    },
+    {
+        "name": "Approximation Algorithms",
+        "acronym": "AAG",
+        "code": "CSE529",
+        "semester": "Winter"
+    },
+    {
+        "name": "Distributed Systems: Concepts & Design",
+        "acronym": "DSCD",
+        "code": "CSE530",
+        "semester": "Winter"
+    },
+    {
+        "name": "Multi-Agent Systems",
+        "acronym": "MAS",
+        "code": "CSE531",
+        "semester": "Monsoon/Winter"
+    },
+    {
+        "name": "Mobile Computing",
+        "acronym": "MC",
+        "code": "CSE535",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Wireless Networks",
+        "acronym": "WN",
+        "code": "CSE538/ECE538",
+        "semester": "Winter"
+    },
+    {
+        "name": "Applied Cryptography",
+        "acronym": "AC",
+        "code": "CSE546",
+        "semester": "Monsoon/Winter"
+    },
+    {
+        "name": "Security Engineering",
+        "acronym": "SE",
+        "code": "CSE552",
+        "semester": "Monsoon/Winter"
+    },
+    {
+        "name": "Introduction to Spatial Computing",
+        "acronym": "ISC",
+        "code": "CSE555",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Natural Language Processing",
+        "acronym": "NLP",
+        "code": "CSE556",
+        "semester": "Winter"
+    },
+    {
+        "name": "Big Data Analytics",
+        "acronym": "BDA",
+        "code": "CSE557",
+        "semester": "Winter"
+    },
+    {
+        "name": "Data Science",
+        "acronym": "DSc",
+        "code": "CSE558",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Mining Large Networks",
+        "acronym": "MLN",
+        "code": "CSE559",
+        "semester": "Winter"
+    },
+    {
+        "name": "GPU Computing",
+        "acronym": "GPU",
+        "code": "CSE560",
+        "semester": "Winter"
+    },
+    {
+        "name": "Probabilistic Graphical Models",
+        "acronym": "PGM",
+        "code": "CSE561",
+        "semester": "Winter"
+    },
+    {
+        "name": "Advanced Computer Vision",
+        "acronym": "ACV",
+        "code": "CSE562",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Multimedia Computing and Applications",
+        "acronym": "MCA",
+        "code": "CSE563",
+        "semester": "Winter"
+    },
+    {
+        "name": "Software Defined Networking",
+        "acronym": "SDN",
+        "code": "CSE565",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Mobile and Middleware Systems",
+        "acronym": "MMS",
+        "code": "CSE566/DES5MMS",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Virtual Reality",
+        "acronym": "VR",
+        "code": "CSE570",
+        "semester": "Winter"
+    },
+    {
+        "name": "Introduction to Media Computing",
+        "acronym": "IMC",
+        "code": "CSE571",
+        "semester": "Monsoon/Winter"
+    },
+    {
+        "name": "Speech and Audio Processing",
+        "acronym": "SAP",
+        "code": "CSE572/ECE561",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Smart Sensing for Internet of Things (IoT)",
+        "acronym": "SSIoT",
+        "code": "CSE576",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Advanced Internet of Things",
+        "acronym": "AIOT",
+        "code": "CSE577",
+        "semester": "Winter"
+    },
+    {
+        "name": "Ontology Modeling",
+        "acronym": "OM",
+        "code": "CSE580A",
+        "semester": "Monsoon/Winter"
+    },
+    {
+        "name": "Systems Analysis, Design and Requirements Engineering",
+        "acronym": "SADRE",
+        "code": "CSE581",
+        "semester": "Winter"
+    },
+    {
+        "name": "Software Production Evolution and Maintenance",
+        "acronym": "SPEM",
+        "code": "CSE582",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Software Development using Open Source",
+        "acronym": "SDOS",
+        "code": "CSE583",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Program Verification",
+        "acronym": "PV",
+        "code": "CSE584",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Geometry Processing",
+        "acronym": "GP",
+        "code": "CSE5GP",
+        "semester": "Monsoon/Winter"
+    },
+    {
+        "name": "Object Oriented Programming and Design",
+        "acronym": "OOPD",
+        "code": "CSE600/ECE600/ECE600A/CSE600A/ECE600A/ECE600A",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Compilers",
+        "acronym": "CMP",
+        "code": "CSE601",
+        "semester": "Winter"
+    },
+    {
+        "name": "Knowledge Graphs in Practice",
+        "acronym": "KG",
+        "code": "CSE605A",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Data Warehouse",
+        "acronym": "DW",
+        "code": "CSE606",
+        "semester": "Winter"
+    },
+    {
+        "name": "Data Lifecycle Management",
+        "acronym": "DLM",
+        "code": "CSE606A",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Statistical Computation",
+        "acronym": "SComp",
+        "code": "CSE609",
+        "semester": "Winter"
+    },
+    {
+        "name": "Introduction to Quantum Computing",
+        "acronym": "IQC",
+        "code": "CSE622",
+        "semester": "Winter"
+    },
+    {
+        "name": "Advanced Operating Systems",
+        "acronym": "AOS",
+        "code": "CSE631",
+        "semester": "Winter"
+    },
+    {
+        "name": "Semantic Web",
+        "acronym": "Sweb",
+        "code": "CSE632",
+        "semester": "Winter"
+    },
+    {
+        "name": "Robotics",
+        "acronym": "IRob",
+        "code": "CSE633/ECE670",
+        "semester": "Winter"
+    },
+    {
+        "name": "Social Robotics",
+        "acronym": "SR",
+        "code": "CSE633A",
+        "semester": "Winter"
+    },
+    {
+        "name": "Communication Networks",
+        "acronym": "COMN",
+        "code": "CSE636/ECE636",
+        "semester": "Winter"
+    },
+    {
+        "name": "Collaborative Filtering",
+        "acronym": "CF",
+        "code": "CSE640",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Advanced Machine Learning",
+        "acronym": "AML",
+        "code": "CSE642",
+        "semester": "Winter"
+    },
+    {
+        "name": "Artificial Intelligence",
+        "acronym": "AI",
+        "code": "CSE643",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Privacy and Security in Online Social Media",
+        "acronym": "PSOSM",
+        "code": "CSE645",
+        "semester": "Winter"
+    },
+    {
+        "name": "Topics in Adaptive Cybersecurity",
+        "acronym": "TAC",
+        "code": "CSE651",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Network Science",
+        "acronym": "NS",
+        "code": "CSE655",
+        "semester": "Winter"
+    },
+    {
+        "name": "Information Integration and Applications",
+        "acronym": "IIA",
+        "code": "CSE656",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Trustworthy AI systems",
+        "acronym": "TAIS",
+        "code": "CSE660",
+        "semester": "Winter"
+    },
+    {
+        "name": "Affective Computing",
+        "acronym": "AFC",
+        "code": "CSE661/DES507",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Special Topics in Computer Vision",
+        "acronym": "SCV",
+        "code": "CSE662A",
+        "semester": "Winter"
+    },
+    {
+        "name": "Edge AI",
+        "acronym": "EAI",
+        "code": "CSE663",
+        "semester": "Winter"
+    },
+    {
+        "name": "Meta-Learning",
+        "acronym": "MEL",
+        "code": "CSE663A",
+        "semester": "Winter"
+    },
+    {
+        "name": "Multimedia Security",
+        "acronym": "MS",
+        "code": "CSE694F/ECE651",
+        "semester": "Winter"
+    },
+    {
+        "name": "Topics in Software Engineering: AI in SE",
+        "acronym": "TSE",
+        "code": "CSE701",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Advanced Topics in Mobile Computing",
+        "acronym": "ATMC",
+        "code": "CSE734",
+        "semester": "Winter"
+    },
+    {
+        "name": "Network Anonymity and Privacy",
+        "acronym": "NAP",
+        "code": "CSE749",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Topics in Cryptanalysis",
+        "acronym": "TC",
+        "code": "CSE653",
+        "semester": "Winter"
+    },
+    {
+        "name": "Design Drawing & Visualization",
+        "acronym": "DDV",
+        "code": "DES101",
+        "semester": "Winter"
+    },
+    {
+        "name": "Introduction to HCI",
+        "acronym": "IHCI",
+        "code": "DES102",
+        "semester": "Winter"
+    },
+    {
+        "name": "Prototyping Interactive Systems",
+        "acronym": "PIS",
+        "code": "DES130/DES206",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Design Processes and Perspectives",
+        "acronym": "DPP",
+        "code": "DES201",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Visual Design & Communication",
+        "acronym": "VDC",
+        "code": "DES202",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Human Computer Interaction",
+        "acronym": "HCI",
+        "code": "DES204",
+        "semester": "Winter"
+    },
+    {
+        "name": "Design of Interactive Systems",
+        "acronym": "DIS",
+        "code": "DES205/DES519",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Introduction to Animation and Graphics",
+        "acronym": "IAG",
+        "code": "DES302",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Film Making and Radio Podcasting",
+        "acronym": "FMRP",
+        "code": "DES303",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Fundamentals of Audio for Engineers",
+        "acronym": "FAE",
+        "code": "DES501",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Introduction to 2D Animation",
+        "acronym": "I2D",
+        "code": "DES502",
+        "semester": "Winter"
+    },
+    {
+        "name": "Introduction to 3D Character Animation",
+        "acronym": "I3DA",
+        "code": "DES503",
+        "semester": "Winter"
+    },
+    {
+        "name": "Narratives in Visual Communication",
+        "acronym": "NVC",
+        "code": "DES504",
+        "semester": "Winter"
+    },
+    {
+        "name": "Advanced topics in Human Centered Computing (ATHCC)",
+        "acronym": "ATHCC",
+        "code": "DES506",
+        "semester": "Winter"
+    },
+    {
+        "name": "Meta-Learning",
+        "acronym": "MTL",
+        "code": "CSE618",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Design Futures",
+        "acronym": "DF",
+        "code": "DES509",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Game Design and Development",
+        "acronym": "GDD",
+        "code": "DES512",
+        "semester": "Winter"
+    },
+    {
+        "name": "Wearable Applications, Research, Devices, Interactions",
+        "acronym": "WARDI",
+        "code": "DES513",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Digital Audio & Video Production Workflow",
+        "acronym": "DAVP",
+        "code": "DES514",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Information Systems in Public Health",
+        "acronym": "ISPR",
+        "code": "DES515",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Introduction to 3D Production Design for Animation and Games",
+        "acronym": "I3DD",
+        "code": "DES516",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Introduction to 3D Animation",
+        "acronym": "I3D",
+        "code": "DES516s",
+        "semester": "Winter"
+    },
+    {
+        "name": "Introduction to Motion Graphics",
+        "acronym": "IMG",
+        "code": "DES518",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Human Centred AI",
+        "acronym": "HCAI",
+        "code": "DES520",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Fundamentals of Video for Engineers",
+        "acronym": "FVE",
+        "code": "DES521",
+        "semester": "Winter"
+    },
+    {
+        "name": "Inclusive Design, Universal Design & Accessibility",
+        "acronym": "IDUDA",
+        "code": "DES522",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Digital Circuits",
+        "acronym": "DC",
+        "code": "ECE111",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Basic Electronics",
+        "acronym": "BE",
+        "code": "ECE113",
+        "semester": "Winter"
+    },
+    {
+        "name": "Integrated Electronics",
+        "acronym": "IE",
+        "code": "ECE214",
+        "semester": "Winter"
+    },
+    {
+        "name": "Circuit Theory and Devices",
+        "acronym": "CTD",
+        "code": "ECE215",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Fields and Waves",
+        "acronym": "F&W",
+        "code": "ECE230",
+        "semester": "Winter"
+    },
+    {
+        "name": "Principles of Communication Systems",
+        "acronym": "PCS",
+        "code": "ECE240",
+        "semester": "Winter"
+    },
+    {
+        "name": "Signals and Systems",
+        "acronym": "S&S",
+        "code": "ECE250",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Embedded Logic Design",
+        "acronym": "ELD",
+        "code": "ECE270",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Digital VLSI Design",
+        "acronym": "DVD",
+        "code": "ECE314/ECE514",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Analog CMOS Circuit Design",
+        "acronym": "CMOS",
+        "code": "ECE315/ECE515",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Solid State Devices",
+        "acronym": "SSD",
+        "code": "ECE318/ECE518",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "RF Circuit Design",
+        "acronym": "RFCD",
+        "code": "ECE321/ECE521",
+        "semester": "Winter"
+    },
+    {
+        "name": "Digital Communication Systems",
+        "acronym": "DCS",
+        "code": "ECE340/ECE540",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Mobile Communications",
+        "acronym": "MCOM",
+        "code": "ECE343",
+        "semester": "Winter"
+    },
+    {
+        "name": "Digital Signal Processing",
+        "acronym": "DSP",
+        "code": "ECE351",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Machine Learning",
+        "acronym": "ML",
+        "code": "ECE363/ECE563/CSE343/543",
+        "semester": "Monsoon/Winter"
+    },
+    {
+        "name": "Mixed Signal Design",
+        "acronym": "MSD",
+        "code": "ECE412/ECE612",
+        "semester": "Winter"
+    },
+    {
+        "name": "Antennas Theory and Design",
+        "acronym": "ATD",
+        "code": "ECE431/ECE631",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Radar Systems",
+        "acronym": "RS",
+        "code": "ECE432/ECE632",
+        "semester": "Winter"
+    },
+    {
+        "name": "Statistical Signal Processing",
+        "acronym": "SSP",
+        "code": "ECE452/ECE552",
+        "semester": "Winter"
+    },
+    {
+        "name": "Probability and Random Process",
+        "acronym": "PRP",
+        "code": "ECE501",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Digital Hardware Design",
+        "acronym": "DHD",
+        "code": "ECE510",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "VLSI Design Flow",
+        "acronym": "VDF",
+        "code": "ECE513/ECE513/ECE313",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "System on Chip Design and Test",
+        "acronym": "SCDT",
+        "code": "ECE516",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Introduction to Nanoelectronics",
+        "acronym": "INE",
+        "code": "ECE517",
+        "semester": "Winter"
+    },
+    {
+        "name": "Intelligent Applications Implementation on Heterogeneous Platforms",
+        "acronym": "IAI",
+        "code": "ECE519",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Low Voltage Analog Circuit Design",
+        "acronym": "LVACD",
+        "code": "ECE520",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Integrated Circuit Fabrication",
+        "acronym": "ICF",
+        "code": "ECE522",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Quantum Materials and Devices",
+        "acronym": "QMD",
+        "code": "ECE524",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Optical Fiber Networks for Industry 4.0",
+        "acronym": "OFNI",
+        "code": "ECE532",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Satellite Navigation and Sensor Fusion",
+        "acronym": "SNSF",
+        "code": "ECE533",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Optical Communications Systems",
+        "acronym": "OCS",
+        "code": "ECE534",
+        "semester": "Winter"
+    },
+    {
+        "name": "Optical Networking",
+        "acronym": "ON",
+        "code": "ECE536s",
+        "semester": "Summer"
+    },
+    {
+        "name": "Wireless Communication Evolution from 3G to 5G",
+        "acronym": "WCE",
+        "code": "ECE537",
+        "semester": "Winter"
+    },
+    {
+        "name": "Wireless System Implementation",
+        "acronym": "WSI",
+        "code": "ECE539",
+        "semester": "Winter"
+    },
+    {
+        "name": "Principals of Digital Communication System",
+        "acronym": "PDCS",
+        "code": "ECE543",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Photonics: Fundamentals & Applications",
+        "acronym": "Pho",
+        "code": "ECE545",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Optical and Wireless Convergence for Beyond 5G Networks and IoT",
+        "acronym": "OWC",
+        "code": "ECE546",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Deep Learning",
+        "acronym": "DL",
+        "code": "ECE553 / CSE641",
+        "semester": "Winter"
+    },
+    {
+        "name": "Compressive Sensing",
+        "acronym": "CS",
+        "code": "ECE554",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Speech Recognition and Understanding",
+        "acronym": "SRU",
+        "code": "ECE557",
+        "semester": "Winter"
+    },
+    {
+        "name": "Transform Learning and Applications",
+        "acronym": "TLA",
+        "code": "ECE558",
+        "semester": "Winter"
+    },
+    {
+        "name": "Modeling and Analysis of Random 5G Networks",
+        "acronym": "5GN",
+        "code": "ECE55G",
+        "semester": "Winter"
+    },
+    {
+        "name": "Data Processing and Management",
+        "acronym": "DPM",
+        "code": "ECE560",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Reinforcement Learning",
+        "acronym": "RL",
+        "code": "ECE564/CSE564",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Linear Systems Theory",
+        "acronym": "LST",
+        "code": "ECE570",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Optimal Control Systems",
+        "acronym": "OCNS",
+        "code": "ECE571",
+        "semester": "Winter"
+    },
+    {
+        "name": "Advanced Embedded Logic Design",
+        "acronym": "AELD",
+        "code": "ECE573",
+        "semester": "Winter"
+    },
+    {
+        "name": "Machine Learning Techniques for Real-time Control",
+        "acronym": "MLRC",
+        "code": "ECE577",
+        "semester": "Winter"
+    },
+    {
+        "name": "Nonlinear and Adaptive Control of Robotic Systems",
+        "acronym": "NLR",
+        "code": "ECE579",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Autonomous Driving",
+        "acronym": "AD",
+        "code": "ECE581",
+        "semester": "Winter"
+    },
+    {
+        "name": "Memory Design and Testing",
+        "acronym": "MDT",
+        "code": "ECE611",
+        "semester": "Winter"
+    },
+    {
+        "name": "Stochastic Estimation and Control",
+        "acronym": "SEC",
+        "code": "ECE672",
+        "semester": "Winter"
+    },
+    {
+        "name": "Macroeconomics",
+        "acronym": "MA",
+        "code": "ECO201",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Econometrics I",
+        "acronym": "ECO",
+        "code": "ECO221",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Money and Banking",
+        "acronym": "MB",
+        "code": "ECO223",
+        "semester": "Winter"
+    },
+    {
+        "name": "Introduction to Economic Analysis",
+        "acronym": "IEA",
+        "code": "ECO301",
+        "semester": "Monsoon/Winter"
+    },
+    {
+        "name": "Microeconomics",
+        "acronym": "ME",
+        "code": "ECO301",
+        "semester": "Winter"
+    },
+    {
+        "name": "Game Theory",
+        "acronym": "GMT",
+        "code": "ECO311/ECO511",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Industrial Organization",
+        "acronym": "IO",
+        "code": "ECO312/ECO512",
+        "semester": "Winter"
+    },
+    {
+        "name": "Market Design",
+        "acronym": "MD",
+        "code": "ECO313",
+        "semester": "Winter"
+    },
+    {
+        "name": "Behavioural Economics",
+        "acronym": "BEco",
+        "code": "ECO314",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Econometrics II",
+        "acronym": "Econ-2",
+        "code": "ECO322/ECO522",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Spatial Statistics and Spatial Econometrics",
+        "acronym": "SSSE",
+        "code": "ECO324/ECO524",
+        "semester": "Winter"
+    },
+    {
+        "name": "Foundations of Finance",
+        "acronym": "FF",
+        "code": "ECO331",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Valuation and Portfolio Management",
+        "acronym": "VPM",
+        "code": "ECO332",
+        "semester": "Winter"
+    },
+    {
+        "name": "Derivatives and Risk Management",
+        "acronym": "DRM",
+        "code": "ECO333",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Markov Decision Processes",
+        "acronym": "MDP",
+        "code": "ECO341/ECO541",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Decision Theory",
+        "acronym": "DT",
+        "code": "ECO503",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Research Methods",
+        "acronym": "RM",
+        "code": "ENG599s",
+        "semester": "Winter"
+    },
+    {
+        "name": "Entrepreneurial Communication",
+        "acronym": "EComm",
+        "code": "ENT411",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Entrepreneurial Khichadi",
+        "acronym": "EK",
+        "code": "ENT412",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Entrepreneurial Finance",
+        "acronym": "EF",
+        "code": "ENT413",
+        "semester": "Winter"
+    },
+    {
+        "name": "Relevance of Intellectual Property for Startups",
+        "acronym": "RIPS",
+        "code": "ENT414",
+        "semester": "Winter"
+    },
+    {
+        "name": "New Venture Planning",
+        "acronym": "NVP",
+        "code": "ENT415",
+        "semester": "Winter"
+    },
+    {
+        "name": "Creativity, Innovation, and Inventive Problem Solving",
+        "acronym": "CIIPS",
+        "code": "ENT416/ENT516",
+        "semester": "Winter"
+    },
+    {
+        "name": "Healthcare Innovation and Entrepreneurship Essentials",
+        "acronym": "HIEE",
+        "code": "ENT421/BIO571",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Environmental Sciences",
+        "acronym": "EVS",
+        "code": "ESC205",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Ecology, Evolution, and Environment",
+        "acronym": "EEE",
+        "code": "ESC207A",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Effective Supply Chain for E Commerce",
+        "acronym": "ESCM",
+        "code": "MGT310",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Emerging Issues in IT Management",
+        "acronym": "EIITM",
+        "code": "MGT311",
+        "semester": "Winter"
+    },
+    {
+        "name": "Linear Algebra",
+        "acronym": "M-I",
+        "code": "MTH100",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Probability and Statistics",
+        "acronym": "P&S",
+        "code": "MTH201",
+        "semester": "Winter"
+    },
+    {
+        "name": "Multivariate Calculus",
+        "acronym": "M-III",
+        "code": "MTH203",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Mathematics IV",
+        "acronym": "M-IV",
+        "code": "MTH204",
+        "semester": "Winter"
+    },
+    {
+        "name": "Discrete Structures",
+        "acronym": "DS",
+        "code": "MTH210",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Number Theory",
+        "acronym": "NT",
+        "code": "MTH211",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Abstract Algebra I",
+        "acronym": "AA-I",
+        "code": "MTH212",
+        "semester": "Winter"
+    },
+    {
+        "name": "Real Analysis I",
+        "acronym": "RA-I",
+        "code": "MTH240",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Numerical Methods",
+        "acronym": "NM",
+        "code": "MTH270",
+        "semester": "Monsoon/Winter"
+    },
+    {
+        "name": "Introduction to Mathematical Logic",
+        "acronym": "IML",
+        "code": "MTH300",
+        "semester": "Winter"
+    },
+    {
+        "name": "Algebra",
+        "acronym": "ALG",
+        "code": "MTH302",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Graph Theory",
+        "acronym": "GT",
+        "code": "MTH310 / MTH520",
+        "semester": "Winter"
+    },
+    {
+        "name": "Combinatorics and its Applications",
+        "acronym": "CIA",
+        "code": "MTH311",
+        "semester": "Winter"
+    },
+    {
+        "name": "Real Analysis-II",
+        "acronym": "RA-II",
+        "code": "MTH340",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Complex Analysis",
+        "acronym": "CmpA",
+        "code": "MTH341 / MTH541",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Introduction to Dynamical Systems",
+        "acronym": "IDS",
+        "code": "MTH343/MTH543",
+        "semester": "Winter"
+    },
+    {
+        "name": "Stochastic Processes and Applications",
+        "acronym": "SPA",
+        "code": "MTH371",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Statistical Inference",
+        "acronym": "SI",
+        "code": "MTH372",
+        "semester": "Winter"
+    },
+    {
+        "name": "Scientific Computing",
+        "acronym": "SC",
+        "code": "MTH373",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Linear Optimization",
+        "acronym": "LO",
+        "code": "MTH374/MTH574",
+        "semester": "Winter"
+    },
+    {
+        "name": "Fluid Mechainics",
+        "acronym": "FM",
+        "code": "MTH375/MTH575",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Advanced Linear Algebra",
+        "acronym": "ALA",
+        "code": "MTH510",
+        "semester": "Winter"
+    },
+    {
+        "name": "Algebraic Number Theory",
+        "acronym": "ANT",
+        "code": "MTH512",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Abstract Algebra II",
+        "acronym": "AA-II",
+        "code": "MTH513",
+        "semester": "Winter"
+    },
+    {
+        "name": "Coding Theory",
+        "acronym": "COT",
+        "code": "MTH514",
+        "semester": "Winter"
+    },
+    {
+        "name": "Analytic Number Theory",
+        "acronym": "ANNT",
+        "code": "MTH516",
+        "semester": "Winter"
+    },
+    {
+        "name": "Combinatorial Optimization",
+        "acronym": "CMO",
+        "code": "MTH517",
+        "semester": "Winter"
+    },
+    {
+        "name": "Social Network Analysis",
+        "acronym": "SNA",
+        "code": "CSE568",
+        "semester": "Winter"
+    },
+    {
+        "name": "Topics in Number Theory",
+        "acronym": "TNT",
+        "code": "MTH518",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Concurrent and Learned Data Structures",
+        "acronym": "CLDS",
+        "code": "CSE518",
+        "semester": "Winter"
+    },
+    {
+        "name": "Measure and Probability Theory",
+        "acronym": "MPT",
+        "code": "MTH535",
+        "semester": "Winter"
+    },
+    {
+        "name": "Applied Optimization Methods for Machine Learning",
+        "acronym": "AOMML",
+        "code": "ECE666 / CSE517",
+        "semester": "Winter"
+    },
+    {
+        "name": "Introduction to Functional Analysis",
+        "acronym": "IFA",
+        "code": "MTH542",
+        "semester": "Winter"
+    },
+    {
+        "name": "Calculus in R^N",
+        "acronym": "CRN",
+        "code": "MTH544",
+        "semester": "Winter"
+    },
+    {
+        "name": "Finite and Spectral Element Methods",
+        "acronym": "FSEM",
+        "code": "MTH545",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Ethics in AI",
+        "acronym": "EI",
+        "code": "SSH325/SSH525",
+        "semester": "Winter"
+    },
+    {
+        "name": "Programmable Networking",
+        "acronym": "PN",
+        "code": "CSE567",
+        "semester": "Winter"
+    },
+    {
+        "name": "Introduction to PDE",
+        "acronym": "IPDE",
+        "code": "MTH550",
+        "semester": "Winter"
+    },
+    {
+        "name": "Estimation Theory for dynamic systems",
+        "acronym": "ET",
+        "code": "ECE5et",
+        "semester": "Winter"
+    },
+    {
+        "name": "Computational Methods in Oncology Research",
+        "acronym": "CMOR",
+        "code": "BIO5XX",
+        "semester": "Winter"
+    },
+    {
+        "name": "Parallel Runtimes for Modern Processors",
+        "acronym": "PRMP",
+        "code": "CSE513",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Quantum Mechanics",
+        "acronym": "QM",
+        "code": "ECE525/ECE525",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Point Set Toplogy",
+        "acronym": "PST",
+        "code": "MTH562",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "3D Animation filmmaking",
+        "acronym": "3DAF",
+        "code": "DES305",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Point Set Toplogy",
+        "acronym": "PST-2",
+        "code": "MTH562A",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Knowledge Production, Concepts and Context",
+        "acronym": "KPCC",
+        "code": "SSH700",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Introduction to Riemannian Geometry with Some Applications",
+        "acronym": "IRG",
+        "code": "MTH564A",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Enhancement Technologies and the Body: Beyond the Human Form",
+        "acronym": "ETB",
+        "code": "SOC513",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Contract Theory",
+        "acronym": "CT",
+        "code": "ECO502",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Numerical Solutions Differential Equations",
+        "acronym": "NSDE",
+        "code": "MTH570",
+        "semester": "Winter"
+    },
+    {
+        "name": "Tomographic Imaging",
+        "acronym": "TI",
+        "code": "ECE565",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Integral Transforms and their Applications",
+        "acronym": "ITA",
+        "code": "MTH571",
+        "semester": "Winter"
+    },
+    {
+        "name": "Cloud Computing",
+        "acronym": "CldC",
+        "code": "CSE569",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Categorical Data Analysis",
+        "acronym": "CDA",
+        "code": "MTH576",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Convex Optimization",
+        "acronym": "COO",
+        "code": "MTH577",
+        "semester": "Winter"
+    },
+    {
+        "name": "Introduction to AI in Medical Imaging",
+        "acronym": "IAMI",
+        "code": "ECE667A",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Computational Metagenomics",
+        "acronym": "CoMeG",
+        "code": "BIO549",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Numerical Partial Differential Equations",
+        "acronym": "NPDE",
+        "code": "MTH598",
+        "semester": "Winter"
+    },
+    {
+        "name": "Variational Calculus and their Applications",
+        "acronym": "VCA",
+        "code": "MTH599",
+        "semester": "Winter"
+    },
+    {
+        "name": "Ergonomics/Human factors for Design",
+        "acronym": "EFD",
+        "code": "DES524",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Introduction to Psychology",
+        "acronym": "Psy",
+        "code": "PSY201",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Positive Psychology",
+        "acronym": "Ppsy",
+        "code": "PSY202",
+        "semester": "Winter"
+    },
+    {
+        "name": "Enhancement Technologies and the Body: Beyond the Human Form",
+        "acronym": "",
+        "code": "SOC513",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Non-Classical Logics",
+        "acronym": "NCL",
+        "code": "MTH504A",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Cognitive Psychology",
+        "acronym": "CP",
+        "code": "PSY301",
+        "semester": "Winter"
+    },
+    {
+        "name": "Lattices in Computer Science",
+        "acronym": "LCS",
+        "code": "CSE526",
+        "semester": "Winter"
+    },
+    {
+        "name": "Social Psychology",
+        "acronym": "SP",
+        "code": "PSY302",
+        "semester": "Winter"
+    },
+    {
+        "name": "Human Microbiome Data Science",
+        "acronym": "HMDS",
+        "code": "BIO548",
+        "semester": "Winter"
+    },
+    {
+        "name": "Attention and Perception",
+        "acronym": "ATP",
+        "code": "PSY305/PSY505",
+        "semester": "Winter"
+    },
+    {
+        "name": "Usable Security and Privacy",
+        "acronym": "UsS",
+        "code": "CSE347/CSE547/DES525/DES306",
+        "semester": "Winter"
+    },
+    {
+        "name": "Learning and Memory",
+        "acronym": "LM",
+        "code": "PSY306/506",
+        "semester": "Winter"
+    },
+    {
+        "name": "Interactive Systems",
+        "acronym": "ISy",
+        "code": "CSE573",
+        "semester": "Winter"
+    },
+    {
+        "name": "Neuroscience of Decision Making",
+        "acronym": "NDM",
+        "code": "PSY307/507",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Information Theory",
+        "acronym": "InT",
+        "code": "ECE634",
+        "semester": "Winter"
+    },
+    {
+        "name": "Cognition of Motor Movement",
+        "acronym": "CMM",
+        "code": "PSY308/PSY508",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Cognition and Information Processing in Design",
+        "acronym": "CIPD",
+        "code": "DES523",
+        "semester": "Winter"
+    },
+    {
+        "name": "Introduction to Sociology and Anthropology",
+        "acronym": "ISA",
+        "code": "SOC101",
+        "semester": "Winter"
+    },
+    {
+        "name": "Foundations of Marketing",
+        "acronym": "FOM",
+        "code": "ENTxxx",
+        "semester": "Winter"
+    },
+    {
+        "name": "Contemporary India: Sociological Perspective",
+        "acronym": "CISP",
+        "code": "SOC202",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Social Entrepreneurship",
+        "acronym": "SoE",
+        "code": "ENT202/ ENT404",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Sociology of New Media",
+        "acronym": "SNM",
+        "code": "SOC204",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Anthropology and Social Media",
+        "acronym": "ASM",
+        "code": "SOC205",
+        "semester": "Winter"
+    },
+    {
+        "name": "Japanese Language",
+        "acronym": "JALang",
+        "code": "SSH326",
+        "semester": "Winter"
+    },
+    {
+        "name": "Distributed and Federated Machine Learning",
+        "acronym": "DFML",
+        "code": "CSE665A",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Business Anthropology",
+        "acronym": "BA",
+        "code": "SOC206",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Information Technology And Society",
+        "acronym": "ITS",
+        "code": "SOC207",
+        "semester": "Winter"
+    },
+    {
+        "name": "Comprehensive Gender Sensitization",
+        "acronym": "CGS",
+        "code": "SSH225A",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Algorithms under Uncertainty",
+        "acronym": "AUU",
+        "code": "CSE586",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Organizations An Anthropological Perspective",
+        "acronym": "OAP",
+        "code": "SOC208",
+        "semester": "Winter"
+    },
+    {
+        "name": "Advances in Deep Learning",
+        "acronym": "ADL",
+        "code": "ECE677/CSE677",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Consumer Culture and Society",
+        "acronym": "CCS",
+        "code": "SOC209",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Quantum Communication and Networks",
+        "acronym": "QCN",
+        "code": "ECE530",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Sociological Theory",
+        "acronym": "ST1",
+        "code": "SOC210",
+        "semester": "Winter"
+    },
+    {
+        "name": "Digital Processor Design",
+        "acronym": "DPD",
+        "code": "ECE523A",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Science, Technology and Society",
+        "acronym": "STS",
+        "code": "SOC211",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Advanced Digital Communications",
+        "acronym": "ADC",
+        "code": "ECE347/ECE547",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Key Concepts in Economic Sociology",
+        "acronym": "KCES",
+        "code": "SOC212",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Motion Design and Graphics",
+        "acronym": "MDG",
+        "code": "DES526/DES307",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Introduction to Digital Ethnography",
+        "acronym": "IDE",
+        "code": "SOC213",
+        "semester": "Winter"
+    },
+    {
+        "name": "User Experience Design of XR",
+        "acronym": "UDXR",
+        "code": "DES527",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Causal Inference",
+        "acronym": "CI",
+        "code": "ECO323/ECO523",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Urban Sociology",
+        "acronym": "US",
+        "code": "SOC302",
+        "semester": "Winter"
+    },
+    {
+        "name": "Digital Social Research",
+        "acronym": "DSR",
+        "code": "SOC307",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Reading Hegel's Phenomenology of Spiri",
+        "acronym": "RHPS",
+        "code": "SSH526/SSH726",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Foundations of Entrepreneurship",
+        "acronym": "FOE",
+        "code": "ENT201/ENT405",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Gender and Media",
+        "acronym": "GM",
+        "code": "SOC308/SOC514",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Advance Ethnographic Research Methods",
+        "acronym": "AERM",
+        "code": "SOC311/SOC501",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Concepts and Methods in Social Movement Research",
+        "acronym": "CMSMR",
+        "code": "SSH327A/SSH527A",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "The Business of Artificial Intelligence",
+        "acronym": "BAI",
+        "code": "DES530",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Sociology of India: Themes and Perspectives",
+        "acronym": "SoI",
+        "code": "SOC313/SOC503",
+        "semester": "Winter"
+    },
+    {
+        "name": "Design for Artificial Intelligence driven Products",
+        "acronym": "DAIDP",
+        "code": "DES529",
+        "semester": "Winter"
+    },
+    {
+        "name": "Technology and the Future of Work",
+        "acronym": "TFM",
+        "code": "SOC314/SOC512",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Nonlinear Dynamics and Chaos (NDC)",
+        "acronym": "NDMA",
+        "code": "MTH359/559",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Intersectionality Studies",
+        "acronym": "INST",
+        "code": "SOC315/SOC511",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Mechanics of Bodies",
+        "acronym": "MB",
+        "code": "MTH376",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Advanced Sociological Theory",
+        "acronym": "AST",
+        "code": "SOC502",
+        "semester": "Winter"
+    },
+    {
+        "name": "Topics in Mathematical Logic",
+        "acronym": "TML",
+        "code": "MTH506",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Introduction to Algebraic Geometry with Applications",
+        "acronym": "IAGA",
+        "code": "MTH561",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Netwoks and Systems Security I",
+        "acronym": "NSS I",
+        "code": "CSE553",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Machine Learning in Wireless Communication and Networks",
+        "acronym": "MLWCN D",
+        "code": "ECE564A",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Programming for Computational Biology",
+        "acronym": "PCB",
+        "code": "BIO551A",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Critical Thinking and Readings in Social Science",
+        "acronym": "CTRSS",
+        "code": "SSH101",
+        "semester": "Winter"
+    },
+    {
+        "name": "Introduction to Philosophy",
+        "acronym": "IPHI",
+        "code": "SSH121",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Applied Fields and Waves",
+        "acronym": "AFW",
+        "code": "ECE331/ECE531",
+        "semester": "Winter"
+    },
+    {
+        "name": "Critical Thinking",
+        "acronym": "CT",
+        "code": "SSH124",
+        "semester": "Winter"
+    },
+    {
+        "name": "Topics on Multivariate Analysis",
+        "acronym": "TMA",
+        "code": "MTH578A",
+        "semester": "Winter"
+    },
+    {
+        "name": "Research Methods in Social Science and Design",
+        "acronym": "RMSSD",
+        "code": "SSH201",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Neural Engineering and Implantable Devices",
+        "acronym": "NEID",
+        "code": "ECE366/ECE566",
+        "semester": "Winter"
+    },
+    {
+        "name": "Theatre Appreciation",
+        "acronym": "TA",
+        "code": "SSH211",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Differential Geometry",
+        "acronym": "DG",
+        "code": "MTH563",
+        "semester": "Winter"
+    },
+    {
+        "name": "Introduction To The Study Of Literature",
+        "acronym": "Lit",
+        "code": "SSH214",
+        "semester": "Winter"
+    },
+    {
+        "name": "On the making of anthropological objects",
+        "acronym": "AO",
+        "code": "SOC504/SOC701",
+        "semester": "Winter"
+    },
+    {
+        "name": "Nation and her Narratives",
+        "acronym": "NN",
+        "code": "SSH215",
+        "semester": "Winter"
+    },
+    {
+        "name": "Reproducing Kernel Hilbert Spaces with Applications (New)",
+        "acronym": "RKHSA",
+        "code": "MTH550",
+        "semester": "Winter"
+    },
+    {
+        "name": "Introduction to Indian Mythology",
+        "acronym": "IIM",
+        "code": "SSH216",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "An Introduction to Quantum Information Theory",
+        "acronym": "QIT",
+        "code": "MTH551",
+        "semester": "Winter"
+    },
+    {
+        "name": "Indian Poetry Through the Ages",
+        "acronym": "IPA",
+        "code": "SSH217",
+        "semester": "Winter"
+    },
+    {
+        "name": "Graduate Computer Networks",
+        "acronym": "GCN",
+        "code": "CSE637",
+        "semester": "Winter"
+    },
+    {
+        "name": "Social and Political Philosophy",
+        "acronym": "SPP",
+        "code": "SSH221",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Large Language Models",
+        "acronym": "LLM",
+        "code": "CSE665",
+        "semester": "Winter"
+    },
+    {
+        "name": "Theory and Practice of Engineering Ethics",
+        "acronym": "TPEE",
+        "code": "SSH222",
+        "semester": "Winter"
+    },
+    {
+        "name": "Design Thinking and Innovation",
+        "acronym": "DTI",
+        "code": "ENT302",
+        "semester": "Winter"
+    },
+    {
+        "name": "Perspectives of Knowledge",
+        "acronym": "PoK",
+        "code": "SSH223",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "3D Creation for Extended Reality (XR)",
+        "acronym": "3CER",
+        "code": "DES532A",
+        "semester": "Winter"
+    },
+    {
+        "name": "Computer, Information Ethics and Society",
+        "acronym": "CIES",
+        "code": "SSH224",
+        "semester": "Winter"
+    },
+    {
+        "name": "Physics of Semiconductor Devices",
+        "acronym": "PSD",
+        "code": "ECE210/ECE310",
+        "semester": "Winter"
+    },
+    {
+        "name": "Interaction Design Perspectives Methods",
+        "acronym": "IDPM",
+        "code": "DES533",
+        "semester": "Winter"
+    },
+    {
+        "name": "Tangible User Interfaces",
+        "acronym": "TUI",
+        "code": "DES531",
+        "semester": "Winter"
+    },
+    {
+        "name": "Democracy in India: Principles and Practices",
+        "acronym": "DIPP",
+        "code": "SSH261",
+        "semester": "Winter"
+    },
+    {
+        "name": "Electronic System Design",
+        "acronym": "ESD",
+        "code": "ECE211",
+        "semester": "Winter"
+    },
+    {
+        "name": "Theories of Ethics",
+        "acronym": "TE",
+        "code": "SSH300",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Urban Space and Gender",
+        "acronym": "USG",
+        "code": "SOC719A",
+        "semester": "Winter"
+    },
+    {
+        "name": "Advanced Writing",
+        "acronym": "AW",
+        "code": "SSH311",
+        "semester": "Winter"
+    },
+    {
+        "name": "Systems for AI",
+        "acronym": "SAI",
+        "code": "CSE634A",
+        "semester": "Winter"
+    },
+    {
+        "name": "Applied Ethics",
+        "acronym": "AE",
+        "code": "SSH321",
+        "semester": "Winter"
+    },
+    {
+        "name": "Parameterized Algorithms",
+        "acronym": "PALG",
+        "code": "CSE619",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "New Media and Politics",
+        "acronym": "NMP",
+        "code": "SSH323",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Advanced Digital Design and Verification",
+        "acronym": "ADDV",
+        "code": "ECE527",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Philosophy of Mind",
+        "acronym": "PoM",
+        "code": "SSH324",
+        "semester": "Winter"
+    },
+    {
+        "name": "Experiential Learning",
+        "acronym": "EL",
+        "code": "ENT303A",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Political Anthropology: State, Subject, Power",
+        "acronym": "PASSP",
+        "code": "SOC216",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "State and Subject: Advanced topics in political anthropology",
+        "acronym": "APA",
+        "code": "SOC702/505",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Governing AI: History, Theory, Policy (New)",
+        "acronym": "GAI",
+        "code": "SSH341/SSH541",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Comparative Politics in Digital Era",
+        "acronym": "CPDE",
+        "code": "SSH361",
+        "semester": "Winter"
+    },
+    {
+        "name": "Intelligent Product Design Workshop",
+        "acronym": "",
+        "code": "ECE323/EVE323/ECE526",
+        "semester": "Summer"
+    },
+    {
+        "name": "Urban Space and Political Power",
+        "acronym": "USPP",
+        "code": "SSH362/SSH562",
+        "semester": "Monsoon/Winter"
+    },
+    {
+        "name": "Philosophy of Technology",
+        "acronym": "PT",
+        "code": "SSH3PT",
+        "semester": "Winter"
+    },
+    {
+        "name": "Data and Society",
+        "acronym": "D&S",
+        "code": "SSH711",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Extended Reality in Industry",
+        "acronym": "ERI",
+        "code": "DES534",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Politics in Digital Era",
+        "acronym": "PDE",
+        "code": "SSH240",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Algorithmic techniques for Robot Planning (new)",
+        "acronym": "ARP",
+        "code": "CSE634",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Logic and Artificial Intelligence",
+        "acronym": "L&AI",
+        "code": "MTH501",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Probabilistic Methods in Combinatorics",
+        "acronym": "PMC",
+        "code": "MTH523/CSE623",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Introduction to Computational Complexity",
+        "acronym": "ICC",
+        "code": "CSE624A",
+        "semester": "Monsoon"
+    },
+    {
+        "name": "Advanced Solid-state Devices (ASD)",
+        "acronym": "ASSD",
+        "code": "ECE613",
+        "semester": "Winter"
+    },
+    {
+        "name": "Ubiquitous Computing",
+        "acronym": "UC",
+        "code": "DES535",
+        "semester": "Winter"
+    },
+    {
+        "name": "Advanced Topics in Partial Differential Equations",
+        "acronym": "ATPD",
+        "code": "MTH548",
+        "semester": "Winter"
+    },
+    {
+        "name": "Several Complex Variables",
+        "acronym": "SCV",
+        "code": "MTH547",
+        "semester": "Winter"
+    },
+    {
+        "name": "Digital Technologies and Social Entrepreneurship",
+        "acronym": "DTSE",
+        "code": "ENT304",
+        "semester": "Winter"
+    },
+    {
+        "name": "Social Innovation, Corporate Social Responsibility and Sustainable Development",
+        "acronym": "SICSRSD",
+        "code": "ENT305",
+        "semester": "Winter"
+    },
+    {
+        "name": "Decision Making for Multi-robot Systems",
+        "acronym": "",
+        "code": "CSE667",
+        "semester": "Winter"
+    },
+    {
+        "name": "Explainable AI",
+        "acronym": "EAI",
+        "code": "CSE615",
+        "semester": "Winter"
+    },
+    {
+        "name": "Image, Screen, Interface",
+        "acronym": "ISI",
+        "code": "SOC309/509",
+        "semester": "Winter"
+    },
+    {
+        "name": "Advanced Readings in Moral and Political Philosophy",
+        "acronym": "",
+        "code": "SSH721",
+        "semester": "Winter"
+    },
+    {
+        "name": "Graduate Systems (GS)",
+        "acronym": "",
+        "code": "CSE638",
+        "semester": "Winter"
+    },
+    {
+        "name": "Advanced Computer Networks",
+        "acronym": "",
+        "code": "CSE666",
+        "semester": "Winter"
+    },
+    {
+        "name": "Percolation Theory",
+        "acronym": "",
+        "code": "MTH579",
+        "semester": "Winter"
+    },
+    {
+        "name": "Foundations of Biology-I",
+        "acronym": "",
+        "code": "BIO102",
+        "semester": "Winter"
+    },
+    {
+        "name": "Design Research",
+        "acronym": "",
+        "code": "DES536",
+        "semester": "Winter"
+    },
+    {
+        "name": "Introduction to Bioinspired Algorithms and Optimal Control",
+        "acronym": "",
+        "code": "BIO525",
+        "semester": "Winter"
+    },
+    {
+        "name": "Measure Theoretic Probability",
+        "acronym": "",
+        "code": "MTH 580A",
+        "semester": "Winter"
+    }
+]

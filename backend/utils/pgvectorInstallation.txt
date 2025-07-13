@@ -1,0 +1,17 @@
+# Steps to install the pg vector extension into the postgres db
+
+Step 1 - Install pgvector extension
+
+Commands :
+    sudo apt install postgresql-server-dev-17 git make gcc
+    git clone https://github.com/pgvector/pgvector.git
+    cd pgvector
+    make
+    sudo make install
+
+Step 2 - Enable the extension in PostgreSQL
+
+Connect to PostgreSQL
+Commands:
+    psql postgresql://username:password@localhost:5432/CourselectDB
+    CREATE EXTENSION vector;

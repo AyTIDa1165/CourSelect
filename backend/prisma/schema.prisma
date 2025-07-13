@@ -1,0 +1,211 @@
+
+generator client {
+  provider = "prisma-client-js"
+  output = "../node_modules/.prisma/client"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model User {
+  id                        Int         @id      @default(autoincrement())
+  email                     String      @unique
+  username                  String      @unique
+  password                  String
+  role                      Role
+  batch                     Int
+  branch                    Branch
+  about                     String?
+
+  totalReviews              Int         @default(0)
+  totalUpvotesOnReviews     Int         @default(0)
+  totalDownvotesOnReviews   Int         @default(0)
+
+  reviews                   Reviews[]   @relation("Reviewer")
+  reviewVotes               ReviewVotes[]
+  badges                    UserBadge[]
+  reports                   Report[]
+  
+  createdAt                 DateTime    @default(now())
+  updatedAt                 DateTime    @updatedAt
+}
+
+model Professor {
+  id                  Int       @id @default(autoincrement())
+  email               String?
+  name                String
+  department          Department?
+  courses             Course[]
+  reviews             Reviews[] @relation("ReviewedProfessor")
+
+  createdAt           DateTime  @default(now())
+  updatedAt           DateTime  @updatedAt
+}
+
+model Course {
+  id                          Int       @id      @default(autoincrement())
+  courseName                  String
+  courseCode                  String    @unique
+  acronym                     String    @unique
+  sem                         CourseSemester
+
+  numRatings                  Int       @default(0)
+  numReviews                  Int       @default(0)
+
+  profs                       Professor[]
+  reviews                     Reviews[]
+
+  createdAt                   DateTime  @default(now())
+  updatedAt                   DateTime  @updatedAt
+}
+
+model Reviews {
+  id                    Int         @id @default(autoincrement())
+  content               String?
+  vectors               Float[]     @default([])
+
+  userId                Int
+  user                  User        @relation("Reviewer", fields: [userId], references: [id], onDelete: Cascade)
+  
+  courseId              Int
+  course                Course      @relation(fields: [courseId], references: [id])
+  
+  profId                Int
+  prof                  Professor   @relation("ReviewedProfessor", fields: [profId], references: [id])
+
+  gradingDifficulty     Int
+  academicWorkload      Int
+  teachingQuality       Int
+  courseContent         Int
+  managementAndTAs      Int
+  averageRating         Int
+
+  anonymous             Boolean       @default(false)
+  timeOfCourse          Int
+  sem                   Semester
+
+  reviewVotes           ReviewVotes[]
+  upvotes               Int           @default(0)
+  downvotes             Int           @default(0)
+  netVotes              Int           @default(0)
+
+  courseStatus          CourseStatus  @default(Completed)
+  contentWordCount      Int           @default(0)
+
+  reports                Report[]
+
+  createdAt             DateTime      @default(now())
+
+  @@unique([userId, courseId, timeOfCourse, courseStatus]) // Ensuring that a user can only write one review about a course
+
+}
+
+model Badge {
+  id            Int      @id  @default(autoincrement())
+  name          String   @unique
+  description   String
+  iconUrl       String
+  users         UserBadge[]
+}
+
+model ReviewVotes {
+  id        Int     @id @default(autoincrement())
+  userId    Int
+  reviewId  Int
+  voteType  VoteType
+
+  user      User    @relation(fields: [userId], references: [id], onDelete: Cascade)
+  review    Reviews @relation(fields: [reviewId], references: [id], onDelete: Cascade)
+
+  createdAt DateTime @default(now())
+
+  @@unique([userId, reviewId]) // Ensures a user can vote only once per review
+}
+
+model UserBadge {
+  userId        Int
+  badgeId       Int
+  assignedAt    DateTime  @default(now())
+
+  user          User      @relation(fields: [userId], references: [id], onDelete: Cascade)
+  badge         Badge     @relation(fields: [badgeId], references: [id], onDelete: Cascade)
+
+  @@id([userId, badgeId]) // Composite primary key
+}
+
+model Report {
+  id         Int          @id @default(autoincrement())
+  userId     Int
+  reviewId   Int
+  status     ReportStatus @default(PENDING)
+
+  createdAt  DateTime     @default(now())
+  updatedAt  DateTime     @updatedAt
+
+  user       User         @relation(fields: [userId], references: [id], onDelete: Cascade)
+  review     Reviews      @relation(fields: [reviewId], references: [id], onDelete: Cascade)
+
+  @@unique([userId, reviewId]) // Ensures a user can report a review only once
+}
+
+enum VoteType {
+  UPVOTE
+  DOWNVOTE
+}
+
+enum Role {
+  STUDENT
+  ADMIN
+}
+
+enum Department {
+  CB
+  ECE
+  CSE
+  HCD
+  MTH
+  SSH
+}
+
+enum Semester {
+  I
+  II
+  III
+  IV
+  V
+  VI
+  VII
+  VIII
+}
+
+enum CourseSemester {
+  WINTER
+  MONSOON
+  SUMMER
+  MONSOONWINTER
+}
+
+enum Branch {
+  CSAI
+  CSE
+  CSAM
+  CSD
+  CSB
+  CSSS
+  ECE
+  EVE
+}
+
+enum CourseStatus {
+  Completed
+  Repeated
+  Dropped
+}
+
+enum ReportStatus {
+  PENDING
+  REJECTED
+  APPROVED
+}

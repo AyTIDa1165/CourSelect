@@ -1,0 +1,25 @@
+# Ignore node_modules – will be rebuilt inside the container
+node_modules
+npm-debug.log
+yarn-error.log
+
+# Ignore local environment files
+.env.*.local
+
+# Ignore build output (unless you need to COPY it in a production Dockerfile)
+dist
+build
+
+# Editor and system files
+.DS_Store
+*.swp
+*.swo
+*.bak
+.vscode
+.idea
+
+# Git-related files
+.git
+.gitignore
+
+Dockerfile*

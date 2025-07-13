@@ -1,0 +1,847 @@
+[
+    {
+        "name": "A V Subramanyam",
+        "email": "subramanyam@iiitd.ac.in",
+        "department": "ECE"
+    },
+    {
+        "name": "Aasim Khan",
+        "email": "aasim@iiitd.ac.in",
+        "department": "SSH"
+    },
+    {
+        "name": "Abhijit Mitra",
+        "email": "abhijit@iiitd.ac.in",
+        "department": "ECE"
+    },
+    {
+        "name": "Anand Srivastava",
+        "email": "anand@iiitd.ac.in",
+        "department": "ECE"
+    },
+    {
+        "name": "Angshul Majumdar",
+        "email": "angshul@iiitd.ac.in",
+        "department": "ECE"
+    },
+    {
+        "name": "Anmol Srivastava",
+        "email": "anmol@iiitd.ac.in",
+        "department": "HCD"
+    },
+    {
+        "name": "Anubha Gupta",
+        "email": "anubha@iiitd.ac.in",
+        "department": "ECE"
+    },
+    {
+        "name": "Anuj Grover",
+        "email": "anuj@iiitd.ac.in",
+        "department": "ECE"
+    },
+    {
+        "name": "Anuradha Sharma",
+        "email": "anuradha@iiitd.ac.in",
+        "department": "MTH"
+    },
+    {
+        "name": "Arani Bhattacharya",
+        "email": "arani@iiitd.ac.in",
+        "department": "CSE"
+    },
+    {
+        "name": "Arjun Ray",
+        "email": "arjun@iiitd.ac.in",
+        "department": "CB"
+    },
+    {
+        "name": "Arun Balaji Buduru",
+        "email": "arunb@iiitd.ac.in",
+        "department": "CSE"
+    },
+    {
+        "name": "Ashish Kumar Pandey",
+        "email": "ashish.pandey@iiitd.ac.in",
+        "department": "MTH"
+    },
+    {
+        "name": "Bapi Chatterjee",
+        "email": "bapi@iiitd.ac.in",
+        "department": "CSE"
+    },
+    {
+        "name": "Chanekar Prasad Vilas",
+        "email": "prasad@iiitd.ac.in",
+        "department": "ECE"
+    },
+    {
+        "name": "Debajyoti Bera",
+        "email": "dbera@iiitd.ac.in",
+        "department": "CSE"
+    },
+    {
+        "name": "Debarka Sengupta",
+        "email": "debarka@iiitd.ac.in",
+        "department": "CB"
+    },
+    {
+        "name": "Debidas Kundu",
+        "email": "debidas@iiitd.ac.in",
+        "department": "ECE"
+    },
+    {
+        "name": "Debika Banerjee",
+        "email": "debika@iiitd.ac.in",
+        "department": "MTH"
+    },
+    {
+        "name": "Deepak Prince",
+        "email": "deepak@iiitd.ac.in",
+        "department": "SSH"
+    },
+    {
+        "name": "Dhruv Kumar",
+        "email": "dhruv.kumar@iiitd.ac.in",
+        "department": "CSE"
+    },
+    {
+        "name": "Diptapriyo Majumdar",
+        "email": "diptapriyo@iiitd.ac.in",
+        "department": "CSE"
+    },
+    {
+        "name": "G.P.S. Raghava",
+        "email": "raghava@iiitd.ac.in",
+        "department": "CB"
+    },
+    {
+        "name": "Ganesh Bagler",
+        "email": "bagler@iiitd.ac.in",
+        "department": "CB"
+    },
+    {
+        "name": "Garima Rani",
+        "email": "garima@iiitd.ac.in",
+        "department": "CB"
+    },
+    {
+        "name": "Gaurav Ahuja",
+        "email": "gaurav.ahuja@iiitd.ac.in",
+        "department": "CB"
+    },
+    {
+        "name": "Gaurav Arora",
+        "email": "",
+        "department": "SSH"
+    },
+    {
+        "name": "Gautam Shroff",
+        "email": "gautam.shroff@iiitd.ac.in",
+        "department": "CSE"
+    },
+    {
+        "name": "Gayatri Nair",
+        "email": "gayatri@iiitd.ac.in",
+        "department": "SSH"
+    },
+    {
+        "name": "J. V. Meenakshi",
+        "email": "meena@iiitd.ac.in",
+        "department": "SSH"
+    },
+    {
+        "name": "Jainendra Shukla",
+        "email": "jainendra@iiitd.ac.in",
+        "department": "CSE"
+    },
+    {
+        "name": "Jaspreet Kaur Dhanjal",
+        "email": "jaspreet@iiitd.ac.in",
+        "department": "CB"
+    },
+    {
+        "name": "Kalpana Shankhwar",
+        "email": "kalpana@iiitd.ac.in",
+        "department": "HCD"
+    },
+    {
+        "name": "Kaushik Kalyanaraman",
+        "email": "kaushik@iiitd.ac.in",
+        "department": "MTH"
+    },
+    {
+        "name": "Kiriti Kanjilal",
+        "email": "kanjilal@iiitd.ac.in",
+        "department": "SSH"
+    },
+    {
+        "name": "Koteswar Rao Jerripothula",
+        "email": "koteswar@iiitd.ac.in",
+        "department": "CSE"
+    },
+    {
+        "name": "Manohar Kumar",
+        "email": "manohar.kumar@iiitd.ac.in",
+        "department": "SSH"
+    },
+    {
+        "name": "Manuj Mukherjee",
+        "email": "manuj@iiitd.ac.in",
+        "department": "ECE"
+    },
+    {
+        "name": "Md. Shad Akhtar",
+        "email": "shad.akhtar@iiitd.ac.in",
+        "department": "CSE"
+    },
+    {
+        "name": "Monika Arora",
+        "email": "monika@iiitd.ac.in",
+        "department": "MTH"
+    },
+    {
+        "name": "Mrinmoy Chakrabarty",
+        "email": "mrinmoy@iiitd.ac.in",
+        "department": "SSH"
+    },
+    {
+        "name": "Mukesh Mohania",
+        "email": "mukesh@iiitd.ac.in",
+        "department": "CSE"
+    },
+    {
+        "name": "Mukulika Maity",
+        "email": "mukulika@iiitd.ac.in",
+        "department": "CSE"
+    },
+    {
+        "name": "N. Arul Murugan",
+        "email": "arul.murugan@iiitd.ac.in.",
+        "department": "CB"
+    },
+    {
+        "name": "Nabanita Ray",
+        "email": "nabanita@iiitd.ac.in",
+        "department": "MTH"
+    },
+    {
+        "name": "Nikhil Gupta",
+        "email": "nikhil@iiitd.ac.in",
+        "department": "CSE"
+    },
+    {
+        "name": "Nishad Patnaik",
+        "email": "nishad@iiitd.ac.in",
+        "department": "SSH"
+    },
+    {
+        "name": "Ojaswa Sharma",
+        "email": "ojaswa@iiitd.ac.in",
+        "department": "CSE"
+    },
+    {
+        "name": "Pankaj Jalote",
+        "email": "jalote@iiitd.ac.in",
+        "department": "CSE"
+    },
+    {
+        "name": "Paro Mishra",
+        "email": "paro.mishra@iiitd.ac.in",
+        "department": "SSH"
+    },
+    {
+        "name": "Piyus Kedia",
+        "email": "piyus@iiitd.ac.in",
+        "department": "CSE"
+    },
+    {
+        "name": "Pragma Kar",
+        "email": "prgama@iiitd.ac.in",
+        "department": "HCD"
+    },
+    {
+        "name": "Pragya Kosta",
+        "email": "pragya@iiitd.ac.in",
+        "department": "ECE"
+    },
+    {
+        "name": "Prahllad Deb",
+        "email": "prahllad@iiitd.ac.in",
+        "department": "MTH"
+    },
+    {
+        "name": "Praveen Priyadarshi",
+        "email": "praveen@iiitd.ac.in",
+        "department": "SSH"
+    },
+    {
+        "name": "Pravesh Biyani",
+        "email": "praveshb@iiitd.ac.in",
+        "department": "ECE"
+    },
+    {
+        "name": "Pushpendra Singh",
+        "email": "psingh@iiitd.ac.in",
+        "department": "CSE"
+    },
+    {
+        "name": "Rajiv Raman",
+        "email": "rajiv@iiitd.ac.in",
+        "department": "CSE"
+    },
+    {
+        "name": "Rajiv Ratn Shah",
+        "email": "rajivratn@iiitd.ac.in",
+        "department": "CSE"
+    },
+    {
+        "name": "Ram Krishna Ghosh",
+        "email": "rkghosh@iiitd.ac.in",
+        "department": "ECE"
+    },
+    {
+        "name": "Ranjan Bose",
+        "email": "bose@iiitd.ac.in",
+        "department": "ECE"
+    },
+    {
+        "name": "Ranjitha Prasad",
+        "email": "",
+        "department": "ECE"
+    },
+    {
+        "name": "Ravi Anand",
+        "email": "ravi.anand@iiitd.ac.in",
+        "department": "CSE"
+    },
+    {
+        "name": "Richa Gupta",
+        "email": "richa.gupta@iiitd.ac.in",
+        "department": "HCD"
+    },
+    {
+        "name": "Rinku Shah",
+        "email": "rinku@iiitd.ac.in",
+        "department": "CSE"
+    },
+    {
+        "name": "Ruhi Sonal",
+        "email": "ruhi@iiitd.ac.in",
+        "department": "SSH"
+    },
+    {
+        "name": "Saket Anand",
+        "email": "anands@iiitd.ac.in",
+        "department": "CSE"
+    },
+    {
+        "name": "Sambuddho",
+        "email": "sambuddho@iiitd.ac.in",
+        "department": "CSE"
+    },
+    {
+        "name": "Sanat K Biswas",
+        "email": "sanat@iiitd.ac.in",
+        "department": "ECE"
+    },
+    {
+        "name": "Sanjit Krishnan Kaul",
+        "email": "skkaul@iiitd.ac.in",
+        "department": "ECE"
+    },
+    {
+        "name": "Sankha S Basu",
+        "email": "sankha@iiitd.ac.in",
+        "department": "MTH"
+    },
+    {
+        "name": "Sarthok Sircar",
+        "email": "sarthok@iiitd.ac.in",
+        "department": "MTH"
+    },
+    {
+        "name": "Satish Kumar Pandey",
+        "email": "satish@iiitd.ac.i",
+        "department": "MTH"
+    },
+    {
+        "name": "Sayak Bhattacharya",
+        "email": "sayak@iiitd.ac.in",
+        "department": "ECE"
+    },
+    {
+        "name": "Sayan Basu Roy",
+        "email": "sayan@iiitd.ac.in",
+        "department": "ECE"
+    },
+    {
+        "name": "Shamik Sarkar",
+        "email": "shamik@iiitd.ac.in",
+        "department": "ECE"
+    },
+    {
+        "name": "Shobha Sundar Ram",
+        "email": "shobha@iiitd.ac.in",
+        "department": "ECE"
+    },
+    {
+        "name": "Smriti Singh",
+        "email": "smriti@iiitd.ac.in",
+        "department": "SSH"
+    },
+    {
+        "name": "Sneh Saurabh",
+        "email": "sneh@iiitd.ac.in",
+        "department": "ECE"
+    },
+    {
+        "name": "Sneha Chaubey",
+        "email": "sneha@iiitd.ac.in",
+        "department": "MTH"
+    },
+    {
+        "name": "Soibam Haripriya",
+        "email": "soibam@iiitd.ac.in",
+        "department": "SSH"
+    },
+    {
+        "name": "Sonal Keshwani",
+        "email": "sonal.keshwani@iiitd.ac.in",
+        "department": "HCD"
+    },
+    {
+        "name": "Sonia Baloni Ray",
+        "email": "sonia@iiitd.ac.in",
+        "department": "SSH"
+    },
+    {
+        "name": "Souvik Dutta",
+        "email": "souvik@iiitd.ac.in",
+        "department": "SSH"
+    },
+    {
+        "name": "Sriram K",
+        "email": "sriramk@iiitd.ac.in",
+        "department": "CB"
+    },
+    {
+        "name": "Subhashree Mohapatra",
+        "email": "subhashree@iiitd.ac.in",
+        "department": "MTH"
+    },
+    {
+        "name": "Sujay Deb",
+        "email": "sdeb@iiitd.ac.in",
+        "department": "ECE"
+    },
+    {
+        "name": "Sumit J Darak",
+        "email": "sumit@iiitd.ac.in",
+        "department": "ECE"
+    },
+    {
+        "name": "Supratim Shit",
+        "email": "supratim@iiitd.ac.in",
+        "department": "CSE"
+    },
+    {
+        "name": "Syamantak Das",
+        "email": "syamantak@iiitd.ac.in",
+        "department": "CSE"
+    },
+    {
+        "name": "Tanmoy Kundu",
+        "email": "tanmoy.kundu@iiitd.ac.in",
+        "department": "CSE"
+    },
+    {
+        "name": "Tarini Shankar Ghosh",
+        "email": "tarini.ghosh@iiitd.ac.in",
+        "department": "CB"
+    },
+    {
+        "name": "Tavpritesh Sethi",
+        "email": "tavpriteshsethi@iiitd.ac.in",
+        "department": "CB"
+    },
+    {
+        "name": "V. Raghava Mutharaju",
+        "email": "raghava.mutharaju@iiitd.ac.in",
+        "department": "CSE"
+    },
+    {
+        "name": "Venkata Ratnadeep Suri",
+        "email": "ratan.suri@iiitd.ac.in",
+        "department": "SSH"
+    },
+    {
+        "name": "Vibhor Kumar",
+        "email": "vibhor@iiitd.ac.in",
+        "department": "CB"
+    },
+    {
+        "name": "Vikram Goyal",
+        "email": "vikram@iiitd.ac.in",
+        "department": "CSE"
+    },
+    {
+        "name": "Vinayak Abrol",
+        "email": "abrol@iiitd.ac.in",
+        "department": "CSE"
+    },
+    {
+        "name": "Vivek Bohara",
+        "email": "vivek.b@iiitd.ac.in",
+        "department": "ECE"
+    },
+    {
+        "name": "Vivek Kumar",
+        "email": "vivekk@iiitd.ac.in",
+        "department": "CSE"
+    },
+    {
+        "name": "Aman Samuel",
+        "email": "aman.samuel@iiitd.ac.in",
+        "department": ""
+    },
+    {
+        "name": "Anoop Ratn",
+        "email": "anoopratn@iiitd.ac.in",
+        "department": ""
+    },
+    {
+        "name": "Anupam Saronwala",
+        "email": "anupam@iiitd.ac.in",
+        "department": ""
+    },
+    {
+        "name": "Bijendra Nath Jain",
+        "email": "bnjain@iiitd.ac.in",
+        "department": ""
+    },
+    {
+        "name": "D. K. Sharma",
+        "email": "sharmadk@iiitd.ac.in",
+        "department": ""
+    },
+    {
+        "name": "Jyoti Sharma",
+        "email": "jyoti.sharma@iiitd.ac.in",
+        "department": ""
+    },
+    {
+        "name": "Payel C Mukherjee",
+        "email": "payel@iiitd.ac.in",
+        "department": ""
+    },
+    {
+        "name": "Rahul Roy",
+        "email": "rahul.roy@iiitd.ac.in",
+        "department": ""
+    },
+    {
+        "name": "Subhajit Ghosechowdhury",
+        "email": "subhajit@iiitd.ac.in",
+        "department": ""
+    },
+    {
+        "name": "Vinish Kathuria",
+        "email": "vinish@iiitd.ac.in",
+        "department": ""
+    },
+    {
+        "name": "Abhinav Dhall",
+        "email": "abhinav@iitrpr.ac.in",
+        "department": "HCD"
+    },
+    {
+        "name": "Alexander Fell",
+        "email": "alex@iiitd.ac.in",
+        "department": "ECE"
+    },
+    {
+        "name": "Alok Kumar Mittal",
+        "email": "alokst@gmail.com",
+        "department": "ECE"
+    },
+    {
+        "name": "Aman Parnami",
+        "email": "aman@iiitd.ac.in",
+        "department": "HCD"
+    },
+    {
+        "name": "Amlan Chakrabarti",
+        "email": "amlan@iiitd.ac.in",
+        "department": "ECE"
+    },
+    {
+        "name": "Anurag Agrawal",
+        "email": "a.agrawal@igib.in",
+        "department": "CB"
+    },
+    {
+        "name": "Atreyee Bhattacharya",
+        "email": "atreyee.bhattacharya@colorado.edu",
+        "department": "SSH"
+    },
+    {
+        "name": "Bhanu Duggal",
+        "email": "",
+        "department": "CSE"
+    },
+    {
+        "name": "Bijoy Chand Chatterjee",
+        "email": "bijoy@iiitd.ac.in",
+        "department": "CSE"
+    },
+    {
+        "name": "Chetan Arora",
+        "email": "chetan@iiitd.ac.in",
+        "department": "CSE"
+    },
+    {
+        "name": "Debanjan Mahata",
+        "email": "",
+        "department": "CSE"
+    },
+    {
+        "name": "Debasis Dash",
+        "email": "ddash@iiitd.ac.in",
+        "department": "CB"
+    },
+    {
+        "name": "Donghoon Chang",
+        "email": "donghoon@iiitd.ac.in",
+        "department": ""
+    },
+    {
+        "name": "G. Narahari Sastry",
+        "email": "gnsastry@gmail.com",
+        "department": "CB"
+    },
+    {
+        "name": "Gourab Ghatak",
+        "email": "gourab.ghatak@iiitd.ac.in",
+        "department": "ECE"
+    },
+    {
+        "name": "K. Thangaraj",
+        "email": "thangs@ccmb.res.in",
+        "department": "CB"
+    },
+    {
+        "name": "Laurent Counillon",
+        "email": "Laurent.Counillon@univ-cotedazur.fr",
+        "department": "CB"
+    },
+    {
+        "name": "Manisha Luthra Agnihotri",
+        "email": "manisha.luthra@dfki.de",
+        "department": "CSE"
+    },
+    {
+        "name": "Mary L. Gray",
+        "email": "mlg@microsoft.com",
+        "department": "CSE"
+    },
+    {
+        "name": "Mayank Vatsa",
+        "email": "mayank@iiitd.ac.in",
+        "department": "CSE"
+    },
+    {
+        "name": "Mihir Chakraborty",
+        "email": "mihirc4@gmail.com",
+        "department": "MTH"
+    },
+    {
+        "name": "Mona Duggal",
+        "email": "monaduggal2@gmail.com",
+        "department": "CSE"
+    },
+    {
+        "name": "Mukesh Prasad",
+        "email": "mukesh.prasad@uts.edu.au",
+        "department": "CSE"
+    },
+    {
+        "name": "Nachi Nagappan",
+        "email": "nachin@microsoft.com",
+        "department": "CSE"
+    },
+    {
+        "name": "Naveen Ramalingam",
+        "email": "naveensma@gmail.com",
+        "department": "CB"
+    },
+    {
+        "name": "Om Prakash Kaiwartya",
+        "email": "omprakash.kaiwartya@ntu.ac.uk",
+        "department": "CSE"
+    },
+    {
+        "name": "P B Sujit",
+        "email": "sujit@iiitd.ac.in",
+        "department": "ECE"
+    },
+    {
+        "name": "Partha Pratim Majumder",
+        "email": "ppm1@nibmg.ac.in",
+        "department": "CB"
+    },
+    {
+        "name": "Ponnurangam Kumaraguru",
+        "email": "pk@iiitd.ac.in",
+        "department": "CSE"
+    },
+    {
+        "name": "Prabhat Munshi",
+        "email": "prabhat.munshi@iiitd.ac.in",
+        "department": "ECE"
+    },
+    {
+        "name": "Prashant Goswami",
+        "email": "prashant.goswami@bth.se",
+        "department": "CSE"
+    },
+    {
+        "name": "Pydi Ganga Mamba Bahubalindruni",
+        "email": "bpganga@iiitd.ac.in",
+        "department": "ECE"
+    },
+    {
+        "name": "Rahul Purandare",
+        "email": "purandare@iiitd.ac.in",
+        "department": "CSE"
+    },
+    {
+        "name": "Rajesh Kumar",
+        "email": "rajesh.kumar@bucknell.edu",
+        "department": "HCD"
+    },
+    {
+        "name": "Rajesh S. Gokhale",
+        "email": "secy@dbt.nic.in",
+        "department": "CB"
+    },
+    {
+        "name": "Rajesh Sharma",
+        "email": "rajesh.sharma@ut.ee",
+        "department": "CSE"
+    },
+    {
+        "name": "Rakesh Chaturvedi",
+        "email": "rakesh@iiitd.ac.in",
+        "department": "SSH"
+    },
+    {
+        "name": "Richa Singh",
+        "email": "rsingh@iiitd.ac.in",
+        "department": "CSE"
+    },
+    {
+        "name": "S. K. GUPTA",
+        "email": "skg@cse.iitd.ernet.in",
+        "department": "CSE"
+    },
+    {
+        "name": "Sameep Mehta",
+        "email": "sameermehta@in.ibm.com",
+        "department": "CSE"
+    },
+    {
+        "name": "Samir K Brahmachari",
+        "email": "sks@igib.res.in",
+        "department": "CB"
+    },
+    {
+        "name": "Samrith Ram",
+        "email": "samrith@iiitd.ac.in",
+        "department": ""
+    },
+    {
+        "name": "Shilpak Banerjee",
+        "email": "shilpak@iiitd.ac.in",
+        "department": "MTH"
+    },
+    {
+        "name": "Shireen Mirza",
+        "email": "shireen@iiitd.ac.in",
+        "department": "SSH"
+    },
+    {
+        "name": "Shreekant Gupta",
+        "email": "shreekant29@yahoo.com",
+        "department": "SSH"
+    },
+    {
+        "name": "Shriram Venkatraman",
+        "email": "shriramv@iiitd.ac.in",
+        "department": "SSH"
+    },
+    {
+        "name": "Srinivasan Ramachandran",
+        "email": "ramu@igib.res.in",
+        "department": "CB"
+    },
+    {
+        "name": "Subhabrata Samajder",
+        "email": "subhabrata@iiitd.ac.in",
+        "department": "CSE"
+    },
+    {
+        "name": "Subhasree Sarkar",
+        "email": "subhasree.eco@gmail.com",
+        "department": "SSH"
+    },
+    {
+        "name": "Sujata Saunik",
+        "email": "",
+        "department": "CSE"
+    },
+    {
+        "name": "Suman Roy",
+        "email": "suman.roy68@gmail.com",
+        "department": "CSE"
+    },
+    {
+        "name": "Sumit Bhatia",
+        "email": "",
+        "department": "CSE"
+    },
+    {
+        "name": "Tammam Tillo",
+        "email": "tammam@iiitd.ac.in.",
+        "department": "ECE"
+    },
+    {
+        "name": "Tanmoy Chakraborty",
+        "email": "tanmoy@iiitd.ac.in",
+        "department": "CSE"
+    },
+    {
+        "name": "Vaibhav Srivastava",
+        "email": "vasri@kth.se",
+        "department": "CB"
+    },
+    {
+        "name": "Vimal Bhatia",
+        "email": "",
+        "department": "ECE"
+    },
+    {
+        "name": "Yifang Yin",
+        "email": "Yin_Yifang@i2r.a-star.edu.sg",
+        "department": "CSE"
+    },
+    {
+        "name": "Angshu Das",
+        "email": "angshu.das@iiitd.ac.in",
+        "department": ""
+    },
+    {
+        "name": "Pankaj Vajpayee",
+        "email": "pvajpayee@iiitd.ac.in",
+        "department": ""
+    }
+]

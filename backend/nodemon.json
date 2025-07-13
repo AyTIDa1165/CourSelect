@@ -1,0 +1,3 @@
+{
+    "ignore": ["utils/venv/", "node_modules/"]
+}

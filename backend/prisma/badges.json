@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Give Rating Badge 1",
+    "description": "Awarded for giving the first rating.",
+    "iconUrl": "/assets/Badges/GiveRatingBadge1.png"
+  },
+  {
+    "name": "Give Rating Badge 2",
+    "description": "Awarded for giving multiple ratings.",
+    "iconUrl": "/assets/Badges/GiveRatingBadge2.png"
+  },
+  {
+    "name": "Give Rating Badge 3",
+    "description": "Awarded for giving a significant number of ratings.",
+    "iconUrl": "/assets/Badges/GiveRatingBadge3.png"
+  },
+  {
+    "name": "Write Reviews Badge 1",
+    "description": "Awarded for writing your first review.",
+    "iconUrl": "/assets/Badges/WriteReviewsBadge1.png"
+  },
+  {
+    "name": "Write Reviews Badge 2",
+    "description": "Awarded for writing multiple reviews.",
+    "iconUrl": "/assets/Badges/WriteReviewsBadge2.png"
+  },
+  {
+    "name": "Write Reviews Badge 3",
+    "description": "Awarded for writing high-quality reviews.",
+    "iconUrl": "/assets/Badges/WriteReviewsBadge3.png"
+  },
+  {
+    "name": "Write Reviews Badge 4",
+    "description": "Awarded for writing a significant number of reviews.",
+    "iconUrl": "/assets/Badges/WriteReviewsBadge4.png"
+  },
+  {
+    "name": "Beta Test Badge",
+    "description": "Awarded for participating in beta tests.",
+    "iconUrl": "/assets/Badges/BetaTestBadge.png"
+  },
+  {
+    "name": "Developers Badge",
+    "description": "Awarded to developers contributing to the platform.",
+    "iconUrl": "/assets/Badges/DevelopersBadge.png"
+  },
+  {
+    "name": "Best Review Badge",
+    "description": "Awarded for writing the best review of the month.",
+    "iconUrl": "/assets/Badges/BestReviewBadge.png"
+  }
+]
